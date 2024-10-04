@@ -10,7 +10,7 @@ I enjoy discovering new techniques and developing new skills. I believe that lea
 
 
 * 🌍  I'm based in Lille, France
-* 🖥️  See my portfolio at [mathys.dezitter.fr](http://mathysdezitter.fr)
+* 🖥️  See my portfolio at [mathysdezitter.fr](http://mathysdezitter.fr)
 * ✉️  You can contact me at [mathysdezitter.pro@gmail.com](mailto:mathysdezitter.pro@gmail.com)
 
 ### Skills
