@@ -4,10 +4,13 @@ Hi 👋 My name is Mathys
 Web developper
 --------------
 
-Lorem ipsum description
+I am a web development student in Lille. Being passionate about web development, I am equally interested in front-end and back-end development. Indeed, I aspire to become a Full Stack developer.
+
+I enjoy discovering new techniques and developing new skills. I believe that learning comes through doing, which is why I enjoy working on personal projects. I recently started a micro-enterprise with the aim of using my skills to serve various organizations.
+
 
 * 🌍  I'm based in Lille, France
-* 🖥️  See my portfolio at [mathys.dezitter.fr](http://mathys.dezitter.fr)
+* 🖥️  See my portfolio at [mathys.dezitter.fr](http://mathysdezitter.fr)
 * ✉️  You can contact me at [mathysdezitter.pro@gmail.com](mailto:mathysdezitter.pro@gmail.com)
 
 ### Skills
